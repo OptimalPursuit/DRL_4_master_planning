@@ -1,0 +1,13 @@
+/checkpoints/
+/output_files/
+/wandb/
+/lightning_logs/
+/__pycache__/
+/environment/__pycache__/
+/models/__pycache__/
+/.idea/
+/EDA/
+/examples/
+/rl4co_files/
+/rl_algorithms/__pycache__/
+/saved_models/
